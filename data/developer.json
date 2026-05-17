@@ -1,0 +1,40 @@
+{
+  "profile": {
+    "name": "JN Developer Studio",
+    "role": "Frontend Developer and Product Builder",
+    "location": "India",
+    "bio": "Focused on creating fast, responsive, offline-friendly web experiences with clean interfaces and maintainable vanilla JavaScript.",
+    "avatarText": "JN"
+  },
+  "skills": [
+    "HTML5",
+    "CSS3",
+    "Vanilla JavaScript",
+    "PWA",
+    "UI/UX Design",
+    "Responsive Systems",
+    "JSON Data Modeling",
+    "Performance Tuning",
+    "Accessibility",
+    "Product Thinking"
+  ],
+  "links": [
+    { "label": "GitHub", "href": "https://github.com/", "type": "Code" },
+    { "label": "Portfolio", "href": "index.html", "type": "Showcase" },
+    { "label": "App Store", "href": "apps.html", "type": "Platform" }
+  ],
+  "highlights": [
+    {
+      "title": "Static Architecture",
+      "body": "Builds fast web products using simple files, predictable data, and no framework lock-in."
+    },
+    {
+      "title": "Premium Interfaces",
+      "body": "Designs smooth, tactile layouts with clear hierarchy, calm motion, and mobile-first ergonomics."
+    },
+    {
+      "title": "Offline Reliability",
+      "body": "Uses PWA caching patterns so core content remains available even when the network drops."
+    }
+  ]
+}

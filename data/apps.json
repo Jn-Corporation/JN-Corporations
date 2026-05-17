@@ -1,0 +1,46 @@
+{
+  "intro": {
+    "eyebrow": "App Store",
+    "title": "Tools that can grow by editing one JSON file.",
+    "body": "Every app card is rendered from local structured data, making the platform easy to expand without touching page markup."
+  },
+  "apps": [
+    {
+  "name": "Maths Glow",
+  "description": "A simple mathematics learning platform with formulas, concepts, and quick study support.",
+  "category": "Education",
+  "href": "https://maths-glow.vercel.app/",
+  "external": true
+},
+    {
+      "name": "Founder Kit",
+      "description": "A startup planning space for product ideas, milestones, and ecosystem notes.",
+      "category": "Startup",
+      "href": "about.html"
+    },
+    {
+      "name": "Dev Console",
+      "description": "A clean developer profile and skills surface for showcasing project capability.",
+      "category": "Developer",
+      "href": "developer.html"
+    },
+    {
+      "name": "Offline Vault",
+      "description": "A PWA-ready content layer that keeps essential pages and JSON data available offline.",
+      "category": "PWA",
+      "href": "apps.html"
+    },
+    {
+      "name": "Ecosystem Index",
+      "description": "A scalable catalog pattern for future products, tools, services, and internal utilities.",
+      "category": "Platform",
+      "href": "apps.html"
+    },
+    {
+      "name": "Growth Pulse",
+      "description": "A conceptual business pulse panel for tracking initiatives and team focus areas.",
+      "category": "Insights",
+      "href": "index.html"
+    }
+  ]
+}

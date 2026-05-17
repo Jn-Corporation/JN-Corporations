@@ -1,0 +1,56 @@
+{
+  "brand": {
+    "name": "JN Corporations",
+    "tagline": "Building calm, capable digital ecosystems for modern teams.",
+    "description": "JN Corporations is a premium corporate ecosystem platform focused on practical tools, startup enablement, and elegant operational experiences."
+  },
+  "hero": {
+    "eyebrow": "Enterprise ecosystem",
+    "title": "A polished command center for people, products, and progress.",
+    "body": "JN Corporations brings internal tools, startup ideas, developer craft, and business clarity into one offline-ready web platform.",
+    "primaryAction": "Explore Apps",
+    "secondaryAction": "Our Story"
+  },
+  "metrics": [
+    { "value": "04", "label": "Core platform pages" },
+    { "value": "100%", "label": "Static and offline-ready" },
+    { "value": "0", "label": "Framework dependencies" }
+  ],
+  "principles": [
+    {
+      "title": "Mission",
+      "body": "Create simple, reliable digital systems that help teams launch, learn, and operate with confidence."
+    },
+    {
+      "title": "Vision",
+      "body": "Become a trusted ecosystem layer where business tools feel premium, fast, and human from the first tap."
+    },
+    {
+      "title": "Ecosystem",
+      "body": "A growing collection of products, dashboards, utilities, and knowledge hubs connected by a shared design language."
+    }
+  ],
+  "timeline": [
+    {
+      "year": "2024",
+      "title": "Foundation",
+      "body": "Defined the JN Corporations identity around clean business experiences and lightweight web systems."
+    },
+    {
+      "year": "2025",
+      "title": "Ecosystem Thinking",
+      "body": "Shifted from single tools to a scalable platform model where apps can be added through structured data."
+    },
+    {
+      "year": "2026",
+      "title": "Offline-First Platform",
+      "body": "Introduced a static PWA architecture for fast access across Android, desktop, and iOS."
+    }
+  ],
+  "navigation": [
+    { "label": "Home", "href": "index.html", "summary": "Premium ecosystem overview" },
+    { "label": "About", "href": "about.html", "summary": "Mission and timeline" },
+    { "label": "Developer", "href": "developer.html", "summary": "Creator profile and skills" },
+    { "label": "Apps", "href": "apps.html", "summary": "JSON-powered app store" }
+  ]
+}
